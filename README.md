@@ -8,7 +8,7 @@
 ---
 
 ## 2. システム構成図
-ここにDraw.ioやCloudcraftなどで作成した構成図の画像を貼り付けます。
+【ここにDraw.ioやCloudcraftなどで作成した構成図の画像】
 
 【処理の流れ】
 1. Amazon EventBridge（タイマー）が指定時刻にLambdaを起動
